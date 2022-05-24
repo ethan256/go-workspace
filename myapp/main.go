@@ -8,6 +8,6 @@ import (
 
 func main() {
 	msg := "test workspace!"
-	resp := modea.Consume(msg)
+	resp := util.Consume(msg)
 	fmt.Println(resp)
 }

@@ -1,4 +1,4 @@
-package modea
+package util
 
 import "fmt"
 
